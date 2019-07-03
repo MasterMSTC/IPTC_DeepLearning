@@ -1,4 +1,5 @@
-# Summer Seminra: *Practical Introduction to Deep Learning and Keras
+# Summer Seminar:
+*Practical Introduction to Deep Learning and Keras
 15-17 July 2019
 
 This Repository contains Presentations and Python Notebooks for the IPTC Summer Seminar:<br>
