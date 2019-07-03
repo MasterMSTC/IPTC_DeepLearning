@@ -1,8 +1,8 @@
-# IPTC_DeepLearning
-This Repository contains Presentations and Python Notebooks for the IPTC Summer Seminar:
-#*Practical Introduction to Deel Learning &amp; Keras
-
+# Summer Seminra: *Practical Introduction to Deep Learning and Keras
 15-17 July 2019
+
+This Repository contains Presentations and Python Notebooks for the IPTC Summer Seminar:<br>
+*Practical Introduction to Deel Learning &amp; Keras
 
 ### Organized by:
 - ### IPTC: Information Processing and Telecommunication Center
