@@ -3,7 +3,7 @@
 15-17 July 2019 (ETSIT-UPM)
 
 This Repository contains Presentations and Python Notebooks for the IPTC Summer Seminar:<br>
-*Practical Introduction to Deel Learning &amp; Keras
+*Practical Introduction to Deel Learning &amp; Keras*
 
 ### Organized by:
 - ### IPTC: Information Processing and Telecommunication Center
