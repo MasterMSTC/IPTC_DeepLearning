@@ -1,6 +1,6 @@
 # Summer Seminar:
 ## *Practical Introduction to Deep Learning and Keras*
-15-17 July 2019
+15-17 July 2019 (ETSIT-UPM)
 
 This Repository contains Presentations and Python Notebooks for the IPTC Summer Seminar:<br>
 *Practical Introduction to Deel Learning &amp; Keras
